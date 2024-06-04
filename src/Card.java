@@ -7,7 +7,6 @@ public class Card {
     public int suitNum;
     public String cardName;
 
-
     public Card(int paramcardNum, int paramSuit){
         cardNum = paramcardNum;
         suitNum = paramSuit;
